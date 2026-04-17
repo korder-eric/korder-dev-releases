@@ -1,15 +1,15 @@
 {
-  "version": "0.2.45",
-  "notes": "KOrder Tauri 0.2.45",
-  "pub_date": "2026-04-17T14:26:52.835Z",
+  "version": "0.2.46",
+  "notes": "KOrder Tauri 0.2.46",
+  "pub_date": "2026-04-17T14:45:24.790Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjB3TVAxU0xaUFFJKzNkNmZETUxxZGFBdkkzWHEwUUkzM0NuYXN2RWZKUVBpd0VucnY5SzBnUUZ6SGRLbFg4OERtMkgrcy9TK1ZYR2NkMVZQN2NNd0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDM1OTU4CWZpbGU6S09yZGVyIERldl8wLjIuNDVfeDY0LXNldHVwLmV4ZQpidlFQYmdyTkJNMS9hcElGN0RvQnVaeDBMUUMwMW5jbForOElCakpIWlN4VEN1TnFYZWxDSk0wNnVEYkhicEVNRXM4QnU2TFBrdXNxL09DbUZPb01Cdz09Cg==",
-      "url": "https://github.com/korder-eric/korder-dev-releases/releases/download/tauri-v0.2.45/KOrder.Dev_0.2.45_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjZWZCttaFJSaXlCSkZDbzN1NmNudmk1cS9tamY2WmN0OGpKc3hBNWFBQlZqbDRnUjJ5VmJ5WUhEdDhCOXF1eFhkZHRjclpQOFhpcjIwVGdjeEVIK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDM3MDYzCWZpbGU6S09yZGVyIERldl8wLjIuNDZfeDY0LXNldHVwLmV4ZQpJcjI5eEVsKzZmS3hrbkR4c0RnQmNDU21ZblAyOWo4dUVabjRucHMrTlpTMUxqMW9Nb1QwUnd0YXliR2lPdG9IK0lKdVNVRGQ1d251L05XUFZDNVdDQT09Cg==",
+      "url": "https://github.com/korder-eric/korder-dev-releases/releases/download/tauri-v0.2.46/KOrder.Dev_0.2.46_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWnpnRFM1SzhseHY5QVZ4b1RRRnlzOHlpL0d2dUFFekVUMXk2SGhNQnJpSXErUDhYNFZpWnl1Y2lWYzdHRzF1SktzYXpaS1RNU1UyM2taUHQyL1JSa2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDM2MDA4CWZpbGU6S09yZGVyIERldl8wLjIuNDVfYXJtNjQtc2V0dXAuZXhlCmxSNFJHY1JEVjhKSi94YkZlL3grOUpDRWVzWU53b3Rnall5REkwdGZ4aWh2WUNyNXROZDhqczlJalFNem4xVkQrQ045b3ZjaG4xVFFUeGh0bHM1NUJnPT0K",
-      "url": "https://github.com/korder-eric/korder-dev-releases/releases/download/tauri-v0.2.45/KOrder.Dev_0.2.45_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN08xS0oxUVhLWjFQK21TcmMyR0V0YXhhWU9CYisrOHhEQndUMHFHRXo4Zk9MaVVwdmwrRmFTNU1nbEpiSkh5OFh5cEVhM1hqUnBFdFUyZk5xajVUNFhkeVlzTjkvb1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDM3MTE2CWZpbGU6S09yZGVyIERldl8wLjIuNDZfYXJtNjQtc2V0dXAuZXhlCnhqaEE5WC9waGljblhRcHJ4QnVuNWFnRU1iQnNSaWZiTVozdmQ3eTgzbWdTZDZyWFNZRjZSK1ZJcUhLaTI4UVM4K3dCR1RwV0hhV1ZEWXdkeEZPMkJnPT0K",
+      "url": "https://github.com/korder-eric/korder-dev-releases/releases/download/tauri-v0.2.46/KOrder.Dev_0.2.46_arm64-setup.exe"
     }
   }
 }
